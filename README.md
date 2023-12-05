@@ -1,2 +1,2 @@
 # Matlab
-Repository with MATLAB live script codes for amplifier calculations.
+Repository with MATLAB Live Script codes for academic calculations of amplifiers.
